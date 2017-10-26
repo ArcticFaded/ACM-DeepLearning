@@ -76,5 +76,3 @@ dependencies:
   - tensorflow==1.0.0
   - tqdm==4.11.2
   - win-unicode-console==0.5
-prefix: C:\Users\j9k\Anaconda2\envs\dlnd-tf-lab
-
